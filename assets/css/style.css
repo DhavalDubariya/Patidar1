@@ -1721,3 +1721,13 @@ section {
   font-size: 13px;
   padding-top: 5px;
 }
+
+/*-- map --*/
+
+.map-grid iframe {
+    border: none;
+    width: 65%;
+    height: 400px;
+}
+/*-- //map --*/
+
